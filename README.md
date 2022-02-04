@@ -20,7 +20,7 @@ npm start
 - [x] Generating a new Remix project [17:25](https://youtu.be/hsIWJpuxNj0?t=1045)
 - [x] Explore the project structure [20:26](https://youtu.be/hsIWJpuxNj0?t=1226)
 - [x] Routes [44:18](https://youtu.be/hsIWJpuxNj0?t=2658)
-  - [ ] Parameterized Routes
+  - [x] Parameterized Routes [1:02:45](https://youtu.be/hsIWJpuxNj0?t=3765)
 - [ ] Styling
 - [ ] Database
   - [ ] Set up Prisma
