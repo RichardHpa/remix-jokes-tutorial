@@ -15,11 +15,11 @@ npm start
 
 ## Tutorial Progress
 
-- [ ] Outline
-- [ ] Prerequisites
-- [ ] Generating a new Remix project
-- [ ] Explore the project structure
-- [ ] Routes
+- [x] Outline [5:35](https://www.youtube.com/watch?v=hsIWJpuxNj0&t=335s)
+- [x] Prerequisites [11:56](https://youtu.be/hsIWJpuxNj0?t=676)
+- [x] Generating a new Remix project [17:25](https://youtu.be/hsIWJpuxNj0?t=1045)
+- [x] Explore the project structure [20:26](https://youtu.be/hsIWJpuxNj0?t=1226)
+- [x] Routes [44:18](https://youtu.be/hsIWJpuxNj0?t=2658)
   - [ ] Parameterized Routes
 - [ ] Styling
 - [ ] Database
