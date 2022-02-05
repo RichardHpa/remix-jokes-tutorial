@@ -22,8 +22,8 @@ npm start
 - [x] Routes [44:18](https://youtu.be/hsIWJpuxNj0?t=2658)
   - [x] Parameterized Routes [1:02:45](https://youtu.be/hsIWJpuxNj0?t=3765)
 - [x] Styling [1:13:07](https://youtu.be/hsIWJpuxNj0?t=4387)
-- [ ] Database [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
-  - [ ] Set up Prisma
+- [x] Database [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
+  - [x] Set up Prisma [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
   - [ ] Connect to the database
   - [ ] Read from the database in a Remix loader
   - [ ] Data overfetching
