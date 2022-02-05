@@ -21,8 +21,8 @@ npm start
 - [x] Explore the project structure [20:26](https://youtu.be/hsIWJpuxNj0?t=1226)
 - [x] Routes [44:18](https://youtu.be/hsIWJpuxNj0?t=2658)
   - [x] Parameterized Routes [1:02:45](https://youtu.be/hsIWJpuxNj0?t=3765)
-- [ ] Styling
-- [ ] Database
+- [x] Styling [1:13:07](https://youtu.be/hsIWJpuxNj0?t=4387)
+- [ ] Database [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
   - [ ] Set up Prisma
   - [ ] Connect to the database
   - [ ] Read from the database in a Remix loader
