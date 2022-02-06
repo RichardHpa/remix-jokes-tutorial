@@ -24,8 +24,8 @@ npm start
 - [x] Styling [1:13:07](https://youtu.be/hsIWJpuxNj0?t=4387)
 - [x] Database [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
   - [x] Set up Prisma [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
-  - [ ] Connect to the database
-  - [ ] Read from the database in a Remix loader
+  - [x] Connect to the database [1:46:26](https://youtu.be/hsIWJpuxNj0?t=6376)
+  - [x] Read from the database in a Remix loader [1:51:46](https://youtu.be/hsIWJpuxNj0?t=6706)
   - [ ] Data overfetching
   - [ ] Network Type Safety
   - [ ] Wrap up database queries
