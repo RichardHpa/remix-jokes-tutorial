@@ -26,9 +26,9 @@ npm start
   - [x] Set up Prisma [1:35:44](https://youtu.be/hsIWJpuxNj0?t=5744)
   - [x] Connect to the database [1:46:26](https://youtu.be/hsIWJpuxNj0?t=6376)
   - [x] Read from the database in a Remix loader [1:51:46](https://youtu.be/hsIWJpuxNj0?t=6706)
-  - [ ] Data overfetching
-  - [ ] Network Type Safety
-  - [ ] Wrap up database queries
+  - [x] Data overfetching [2:00:30](https://youtu.be/hsIWJpuxNj0?t=7230)
+  - [x] Network Type Safety [2:09:07](https://youtu.be/hsIWJpuxNj0?t=7747)
+  - [x] Wrap up database queries [2:10:45](https://youtu.be/hsIWJpuxNj0?t=7845)
 - [ ] Mutations
 - [ ] Authentication
   - [ ] Preparing the database
