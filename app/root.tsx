@@ -5,7 +5,7 @@ import globalStylesUrl from './styles/global.css';
 import globalMediumStylesUrl from './styles/global-medium.css';
 import globalLargeStylesUrl from './styles/global-large.css';
 
-export const links: LinksFunction = () => {
+export let links: LinksFunction = () => {
   return [
     {
       rel: 'stylesheet',
