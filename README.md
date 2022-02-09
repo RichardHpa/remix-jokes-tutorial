@@ -29,7 +29,7 @@ npm start
   - [x] Data overfetching [2:00:30](https://youtu.be/hsIWJpuxNj0?t=7230)
   - [x] Network Type Safety [2:09:07](https://youtu.be/hsIWJpuxNj0?t=7747)
   - [x] Wrap up database queries [2:10:45](https://youtu.be/hsIWJpuxNj0?t=7845)
-- [ ] Mutations
+- [x] Mutations [2:24:29](https://youtu.be/hsIWJpuxNj0?t=8669)
 - [ ] Authentication
   - [ ] Preparing the database
   - [ ] Auth Flow Overview
