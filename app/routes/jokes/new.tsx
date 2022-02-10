@@ -30,8 +30,9 @@ const badRequest = (data: ActionData) => json(data, { status: 400 });
 
 export const action: ActionFunction = async ({ request }) => {
   const form = await request.formData();
-  const name = form.get('name');
-  const content = form.get('content');
+  const name = form.get('name') || '';
+  const content = form.get('content') || '';
+
   if (typeof name !== 'string' || typeof content !== 'string') {
     return badRequest({
       formError: `Form not submitted correctly.`,
