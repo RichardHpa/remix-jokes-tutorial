@@ -30,10 +30,10 @@ npm start
   - [x] Network Type Safety [2:09:07](https://youtu.be/hsIWJpuxNj0?t=7747)
   - [x] Wrap up database queries [2:10:45](https://youtu.be/hsIWJpuxNj0?t=7845)
 - [x] Mutations [2:24:29](https://youtu.be/hsIWJpuxNj0?t=8669)
-- [ ] Authentication
-  - [ ] Preparing the database
-  - [ ] Auth Flow Overview
-  - [ ] Build the login form
+- [x] Authentication [2:47:17](https://youtu.be/hsIWJpuxNj0?t=10037)
+  - [x] Preparing the database [2:48:07](https://youtu.be/hsIWJpuxNj0?t=10087)
+  - [x] Auth Flow Overview [2:50:34](https://youtu.be/hsIWJpuxNj0?t=10234)
+  - [ ] Build the login form [2:53:12](https://youtu.be/hsIWJpuxNj0?t=10392)
   - [ ] Build Logout Action
   - [ ] User Registration
 - [ ] Unexpected errors
