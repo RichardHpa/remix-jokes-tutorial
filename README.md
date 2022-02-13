@@ -33,7 +33,7 @@ npm start
 - [x] Authentication [2:47:17](https://youtu.be/hsIWJpuxNj0?t=10037)
   - [x] Preparing the database [2:48:07](https://youtu.be/hsIWJpuxNj0?t=10087)
   - [x] Auth Flow Overview [2:50:34](https://youtu.be/hsIWJpuxNj0?t=10234)
-  - [ ] Build the login form [2:53:12](https://youtu.be/hsIWJpuxNj0?t=10392)
+  - [x] Build the login form [2:53:12](https://youtu.be/hsIWJpuxNj0?t=10392)
   - [ ] Build Logout Action
   - [ ] User Registration
 - [ ] Unexpected errors
