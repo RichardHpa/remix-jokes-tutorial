@@ -34,8 +34,8 @@ npm start
   - [x] Preparing the database [2:48:07](https://youtu.be/hsIWJpuxNj0?t=10087)
   - [x] Auth Flow Overview [2:50:34](https://youtu.be/hsIWJpuxNj0?t=10234)
   - [x] Build the login form [2:53:12](https://youtu.be/hsIWJpuxNj0?t=10392)
-  - [ ] Build Logout Action
-  - [ ] User Registration
+  - [x] Build Logout Action [3:35:31](https://youtu.be/hsIWJpuxNj0?t=12931)
+  - [ ] User Registration [3:48:36](https://youtu.be/hsIWJpuxNj0?t=13716)
 - [ ] Unexpected errors
 - [ ] Expected errors
 - [ ] SEO with Meta tags
