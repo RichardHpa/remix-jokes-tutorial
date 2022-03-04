@@ -39,8 +39,8 @@ const badRequest = (data: ActionData) => json(data, { status: 400 });
 export const action: ActionFunction = async ({ request }) => {
   const form = await request.formData();
   const loginType = form.get('loginType');
-  const username = form.get('username') || '';
-  const password = form.get('password') || '';
+  const username = form.get('username');
+  const password = form.get('password');
   const redirectTo = form.get('redirectTo') || '/jokes';
   if (
     typeof loginType !== 'string' ||
