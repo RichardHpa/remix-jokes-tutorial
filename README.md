@@ -38,7 +38,7 @@ npm start
   - [x] User Registration [3:48:36](https://youtu.be/hsIWJpuxNj0?t=13716)
 - [x] Unexpected errors [4:22:22](https://youtu.be/hsIWJpuxNj0?t=15742)
 - [x] Expected errors [4:34:11](https://youtu.be/hsIWJpuxNj0?t=16451)
-- [ ] SEO with Meta tags
+- [x] SEO with Meta tags [4:58:52](https://youtu.be/hsIWJpuxNj0?t=17932)
 - [ ] Resource Routes
 - [ ] JavaScript
   - [ ] Forms
