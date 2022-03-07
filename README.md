@@ -36,7 +36,7 @@ npm start
   - [x] Build the login form [2:53:12](https://youtu.be/hsIWJpuxNj0?t=10392)
   - [x] Build Logout Action [3:35:31](https://youtu.be/hsIWJpuxNj0?t=12931)
   - [x] User Registration [3:48:36](https://youtu.be/hsIWJpuxNj0?t=13716)
-- [ ] Unexpected errors
+- [x] Unexpected errors [4:22:22](https://youtu.be/hsIWJpuxNj0?t=15742)
 - [ ] Expected errors
 - [ ] SEO with Meta tags
 - [ ] Resource Routes
