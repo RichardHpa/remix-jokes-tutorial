@@ -45,4 +45,4 @@ npm start
   - [x] Prefetching [5:28:11](https://youtu.be/hsIWJpuxNj0?t=19691)
 - [x] Optimistic UI [5:32:52](https://youtu.be/hsIWJpuxNj0?t=19972)
 - [x] Deployment [5:52:19](https://youtu.be/hsIWJpuxNj0?t=21139)
-- [ ] Conclusion
+- [x] Conclusion [6:03:33](https://youtu.be/hsIWJpuxNj0?t=21813)
