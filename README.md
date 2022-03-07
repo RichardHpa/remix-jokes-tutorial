@@ -39,8 +39,8 @@ npm start
 - [x] Unexpected errors [4:22:22](https://youtu.be/hsIWJpuxNj0?t=15742)
 - [x] Expected errors [4:34:11](https://youtu.be/hsIWJpuxNj0?t=16451)
 - [x] SEO with Meta tags [4:58:52](https://youtu.be/hsIWJpuxNj0?t=17932)
-- [ ] Resource Routes
-- [ ] JavaScript
+- [x] Resource Routes [5:15:17](https://youtu.be/hsIWJpuxNj0?t=18917)
+- [ ] JavaScript [5:20:21](https://youtu.be/hsIWJpuxNj0?t=19241)
   - [ ] Forms
   - [ ] Prefetching
 - [ ] Optimistic UI
