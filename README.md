@@ -42,7 +42,7 @@ npm start
 - [x] Resource Routes [5:15:17](https://youtu.be/hsIWJpuxNj0?t=18917)
 - [x] JavaScript [5:20:21](https://youtu.be/hsIWJpuxNj0?t=19241)
   - [x] Forms [5:22:52](https://youtu.be/hsIWJpuxNj0?t=19372)
-  - [ ] Prefetching
-- [ ] Optimistic UI
-- [ ] Deployment
+  - [x] Prefetching [5:28:11](https://youtu.be/hsIWJpuxNj0?t=19691)
+- [x] Optimistic UI [5:32:52](https://youtu.be/hsIWJpuxNj0?t=19972)
+- [x] Deployment [5:52:19](https://youtu.be/hsIWJpuxNj0?t=21139)
 - [ ] Conclusion
