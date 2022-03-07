@@ -37,7 +37,7 @@ npm start
   - [x] Build Logout Action [3:35:31](https://youtu.be/hsIWJpuxNj0?t=12931)
   - [x] User Registration [3:48:36](https://youtu.be/hsIWJpuxNj0?t=13716)
 - [x] Unexpected errors [4:22:22](https://youtu.be/hsIWJpuxNj0?t=15742)
-- [ ] Expected errors
+- [x] Expected errors [4:34:11](https://youtu.be/hsIWJpuxNj0?t=16451)
 - [ ] SEO with Meta tags
 - [ ] Resource Routes
 - [ ] JavaScript
