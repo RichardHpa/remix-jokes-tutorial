@@ -12,7 +12,7 @@
     "prismaStudio": "npx prisma studio"
   },
   "dependencies": {
-    "@prisma/client": "^3.10.0",
+    "@prisma/client": "^4.0.0",
     "@remix-run/react": "^1.2.3",
     "@remix-run/serve": "^1.2.3",
     "bcryptjs": "^2.4.3",
